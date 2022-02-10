@@ -1503,6 +1503,21 @@ body.ie ._ibg img {
   display: none;
 }
 
+/*.works__btn {
+  display: none;
+}
+
+@media (max-width: 967px) {
+  .works__btn { 
+  display: block;
+  font-family: 'Montserrat';
+  text-transform: uppercase;
+  border: 1px solid #c0301c;
+  color: #c0301c;
+  padding: 13px 15px;
+  }
+}*/
+
 .actions-work__body {
   padding: 15px 15px 15px;
   background-color: #e7d6d6;
